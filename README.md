@@ -1,4 +1,4 @@
-# massCode remote code execution
+# massCode Remote code execution (CVE-2020-8548)
 
 A few days back I was looking for a tool to maintain my notes and important code snippets and I come across a tool called massCode
 
@@ -44,3 +44,5 @@ which means we can invoke node API's. Next i created a simple XSS payload to ope
 ```
 
 ![poc-gif](https://github.com/c0d3G33k/massCodeRCE/blob/master/Screen-Recording-_02-02-2020-11-06-09_.gif)
+
+We have submitted a issue request to the developer but he closed the issue without any information. 
