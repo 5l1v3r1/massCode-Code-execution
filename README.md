@@ -45,4 +45,4 @@ which means we can invoke node API's. Next i created a simple XSS payload to ope
 
 ![poc-gif](https://github.com/c0d3G33k/massCodeRCE/blob/master/Screen-Recording-_02-02-2020-11-06-09_.gif)
 
-We have submitted a issue request to the developer but he closed the issue without any information. 
+This issues has been fixed in latest relase of massCode
